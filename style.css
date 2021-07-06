@@ -52,13 +52,13 @@ header {
       background: #000;
 }
 
-header .logo {
+header #logo {
       font-size: 35px;
       font-weight: bold;
 
 }
 
-header .logo a {
+header #logo a {
       color: orange;
       text-decoration: none;
 }
@@ -243,6 +243,7 @@ background-attachment: fixed;
       justify-content: space-around;
       align-items: center;
       width: 100%;
+      cursor: pointer;
       
       
 }
@@ -286,6 +287,7 @@ background-attachment: fixed;
      margin-left:46px;
       justify-content: space-around;
       align-items: center;
+      text-transform: capitalize;
       width: 100%;
       box-shadow: -6px -5px 25px 0px rgba(0,0,0,0.75)
 }
@@ -296,3 +298,38 @@ background-attachment: fixed;
 
 
 /* footer section */
+
+footer {
+      background: orange;
+       text-align: center;
+}
+footer h2 {
+      font-size: 32px;
+}
+footer a {
+      color: #000;
+      transition:all 0.4s ease ;
+      -webkit-transition:all 0.4s ease ;
+      -moz-transition:all 0.4s ease ;
+      -ms-transition:all 0.4s ease ;
+      -o-transition:all 0.4s ease ;
+}
+
+footer a:hover {
+ color: orange;
+ background: #000;
+ padding: 10px 20px;
+}
+footer p {
+      font-size: 22px;
+      color: #fff;
+      text-transform: capitalize;
+}
+
+
+
+
+
+
+
+

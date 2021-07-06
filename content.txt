@@ -1,4 +1,7 @@
 Site name : Food Hub
+creator name : Muhammad iMRAN khan
+
+
 
 Nav : Home , About , Recipe , Customer Review, Footer
 
@@ -23,6 +26,8 @@ hero(home) h4: Welcome to Food-Hub
 footer : h1:Food Hub
 P:A defining characteristic of 
 food hubs is source identification,
+p:Healthy Food Guide makes it easy and 
+                  enjoyable to eat well and feel great
 
 
 
