@@ -1,0 +1,37 @@
+Site name : Food Hub
+
+Nav : Home , About , Recipe , Customer Review, Footer
+
+Content :
+hero(home) h4: Welcome to Food-Hub 
+ h1 :THE WORLD BEST SHOPPING WEBSite
+ P : Get exciting offer of this Eid & save 20% Money
+  ENJOY EATING
+ BTN : read more
+
+
+ About :
+  heading-text(h1): About Food Hub
+  p: Order food online from the best-rated 
+  food near you in the Chittagong now. Get
+   exclusive discounts only on Foodhub.
+
+  Recipe :
+  Heading-text : Our Recipe
+
+
+footer : h1:Food Hub
+P:A defining characteristic of 
+food hubs is source identification,
+
+
+
+
+
+
+
+
+
+
+
+
